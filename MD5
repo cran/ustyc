@@ -1,0 +1,13 @@
+96f406e9d0422ed9ed7fe786e613eacf *DESCRIPTION
+728eb6db4e26e38a0120e910b4a6e3f2 *LICENSE
+d83a831e724f80f0a7239ade976278fb *NAMESPACE
+96c7e29f114c4485d5ef454b88dc68c4 *R/summary.ustyc.R
+41018049c7af0389f40261b0adadd945 *R/ustyc-package.r
+1d0433d1cc08d94dde68cb51f7f7b874 *R/yieldcurve.R
+714aa64b8618a49c1941b3b6153d237c *README.md
+1e6a691cc2b8820c9a702113032206d6 *inst/doc/index.html
+aaaf79e4f57b12d2b528d0d4fb95487b *inst/doc/ustyc.pdf
+5ccb7e7ddb5b467118d75bac4ca93ac5 *man/figures/grouped.png
+39baff71b16c910703034e596f1f2a84 *man/figures/individual.png
+483d381168058fd31fd8850fc9a93f8c *man/getYieldCurve.Rd
+267732f025c498104c810d03d3f83209 *man/ustyc.Rd
